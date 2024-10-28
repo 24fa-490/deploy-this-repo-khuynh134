@@ -27,6 +27,6 @@
 # Where am I deployed?
 
 
-<https://deploy-this-repo-khuynh-a6hnrioqv-khuynh134s-projects.vercel.app>
+<https://deploy-this-repo-khuynh.vercel.app/>
 
 
